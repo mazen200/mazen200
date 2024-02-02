@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazen ALaa</h1>
-<h3 align="center">A student at the Faculty of Computers and Information, Ain Shams University, passionate about competitive programming.</h3>
+<h3 align="center">A student at the Faculty of Computer and Information science , Ain Shams University, passionate about competitive programming.</h3>
 
 - 🌱 I’m currently learning **machine learning**
 
