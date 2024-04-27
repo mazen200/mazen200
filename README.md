@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mazen ALaa</h1>
+<h1 align="center">Hi 👋, I'm Mazen Alaa</h1>
 <h3 align="center">A student at the Faculty of Computer and Information science, Ain Shams University, passionate about competitive programming.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazen200" alt="mazen200" /></a> </p>
