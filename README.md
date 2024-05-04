@@ -2,6 +2,7 @@
 <h3 align="center">A student at the Faculty of Computer and Information science, Ain Shams University, passionate about competitive programming.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazen200" alt="mazen200" /></a> </p>
+<img align ="right" alt = "Coding" width="500" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif">
 
 
 - 📫 How to reach me **mazen15408@gmail.com**
