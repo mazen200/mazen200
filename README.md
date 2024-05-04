@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazen200" alt="mazen200" /></a> </p>
 
-- 🌱 I’m currently learning **machine learning**
 
 - 📫 How to reach me **mazen15408@gmail.com**
 
@@ -12,6 +11,7 @@
 <a href="https://linkedin.com/in/mazen-alaa-886390285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazen-alaa-886390285" height="30" width="40" /></a>
 <a href="https://fb.com/100005693865523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100005693865523" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mazen_alaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mazen_alaa" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mazo0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mazo0n" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
