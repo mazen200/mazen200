@@ -16,24 +16,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-  <div align='center'>
-<picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazen200&theme=github_dark">
-    <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazen200&theme=nord_bright">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mazen200&theme=github_dark">
-    <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mazen200&theme=nord_bright">
-  </picture>
+  <div align='left'>
 <picture>
 <source media="(prefers-color-scheme: dark)"
-      srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mazen200&theme=github_dark">
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mazen200&theme=github_dark">
     <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mazen200&theme=nord_bright">
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mazen200&theme=github_dark">
   </picture>
 </div>
