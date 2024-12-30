@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazen Alaa</h1>
-<h3 align="center">A student at the Faculty of Computer and Information science, Ain Shams University, passionate about competitive programming.</h3>
+<h3 align="center">A student at the Faculty of Computer and Information science, Ain Shams University.</h3>
 
 <img align ="right" alt = "Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif">
 
